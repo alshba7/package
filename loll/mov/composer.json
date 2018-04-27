@@ -1,0 +1,9 @@
+{
+    "name": "alshba7/mov",
+    "autoload": {
+        "psr-4": {
+            "loll\\":"src/"
+        }
+    },
+    "require": {}
+}
